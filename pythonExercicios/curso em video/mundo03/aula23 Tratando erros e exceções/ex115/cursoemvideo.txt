@@ -1,0 +1,13 @@
+Simone;45
+Gabriel;22
+Marcio;51
+Gabriel;22
+Gustavo;41
+Marcio;51
+Joaquim;67
+Ana;25
+James;17
+Adriana;58
+Elaina;16
+Mike;31
+Joao;30
